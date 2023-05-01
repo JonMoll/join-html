@@ -1,0 +1,15 @@
+body {
+  background-color: #f2f2f2;
+}
+
+h1 {
+  font-size: 36px;
+  color: navy;
+  text-align: center;
+}
+
+p {
+  font-size: 24px;
+  color: gray;
+  text-align: justify;
+}
